@@ -2,7 +2,7 @@
 layout: about
 title: PhD Candidate
 permalink: /
-subtitle: <a href='https://chic.caltech.edu'>Caltech High Speed Integrated Circuits Lab</a>.
+subtitle: <a href='https://chic.caltech.edu'> Caltech High Speed Integrated Circuits Lab</a>.
 
 profile:
   align: right
