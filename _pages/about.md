@@ -1,6 +1,6 @@
 ---
 layout: about
-title: PhD Candidate
+title: 
 permalink: /
 subtitle: <a href='https://chic.caltech.edu'> Caltech High Speed Integrated Circuits Lab</a>.
 
@@ -27,5 +27,3 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am a Ph.D. candidate at the California Institute of Technology, and I am advised by Professor Ali Hajimiri.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
