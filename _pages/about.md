@@ -6,7 +6,7 @@ subtitle: <a href='https://chic.caltech.edu'> Caltech High Speed Integrated Circ
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: alex.jfif
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Electrical Engineering</p>
