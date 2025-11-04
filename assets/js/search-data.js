@@ -62,7 +62,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-in-a-first-caltech-s-space-solar-power-demonstrator-wirelessly-transmits-power-in-space",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-in-a-first-caltech-s-space-solar-power-demonstrator-wirelessly-transmits-power-in-space",
           title: 'In a First, Caltech’s Space Solar Power Demonstrator Wirelessly Transmits Power in Space....',
           description: "",
           section: "News",},{id: "projects-project-1",
