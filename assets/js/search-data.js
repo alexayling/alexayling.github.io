@@ -57,11 +57,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-press-coverage-for-caltech-space-solar-power-caltech-magazine-new-york-times-cbs-news-gizmodo-bright-harvest-powering-earth-from-space-other-news-coverage",
-          title: 'Press Coverage for Caltech Space Solar Power: Caltech Magazine, New York Times, CBS...',
-          description: "",
-          section: "News",},{id: "news-in-a-first-caltech-s-space-solar-power-demonstrator-wirelessly-transmits-power-in-space",
+            },},{id: "news-in-a-first-caltech-s-space-solar-power-demonstrator-wirelessly-transmits-power-in-space",
           title: 'In a First, Caltech’s Space Solar Power Demonstrator Wirelessly Transmits Power in Space....',
+          description: "",
+          section: "News",},{id: "news-press-coverage-for-caltech-space-solar-power-caltech-magazine-new-york-times-cbs-news-gizmodo-bright-harvest-powering-earth-from-space-other-news-coverage",
+          title: 'Press Coverage for Caltech Space Solar Power: Caltech Magazine, New York Times, CBS...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
