@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://alexayling.github.io/sitemap.xml
