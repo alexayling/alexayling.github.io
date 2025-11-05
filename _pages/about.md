@@ -9,7 +9,8 @@ profile:
   image: alex.jfif
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Electrical Engineering</p>
+    <p>Email: aayling@caltech.edu</p>
+    <p>Electrical Engineering</p>
     <p>California Institute of Technology</p>
     <p>Pasadena, CA - 91125</p>
 
