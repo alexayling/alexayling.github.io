@@ -1,10 +1,8 @@
 ---
-layout: cv
+layout: page
 title: CV
-permalink: /cv/
+permalink: /assets/pdf/CV_AlexAyling.pdf
 nav: true
-nav_order: 5
-cv_pdf: CV_AlexAyling.pdf
-description:  # leave blank to hide
-toc: false
+newtab: true
+nav_order: 3
 ---
